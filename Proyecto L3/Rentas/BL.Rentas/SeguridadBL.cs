@@ -16,7 +16,7 @@ namespace BL.Rentas
             } 
             else
             {
-                    if (usuario == "Enia" && contrasena == "321")
+                    if (usuario == "Enia" && contrasena == "321" || usuario == "Dixee" && contrasena == "789")
                 {
                     return true;
                 }              
