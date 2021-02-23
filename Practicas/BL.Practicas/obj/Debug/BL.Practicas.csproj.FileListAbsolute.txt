@@ -1,0 +1,5 @@
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\EJEMPLOS DE LA CLASE\Practicas\BL.Practicas\bin\Debug\BL.Practicas.dll
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\EJEMPLOS DE LA CLASE\Practicas\BL.Practicas\bin\Debug\BL.Practicas.pdb
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\EJEMPLOS DE LA CLASE\Practicas\BL.Practicas\obj\Debug\BL.Practicas.csprojResolveAssemblyReference.cache
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\EJEMPLOS DE LA CLASE\Practicas\BL.Practicas\obj\Debug\BL.Practicas.dll
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\EJEMPLOS DE LA CLASE\Practicas\BL.Practicas\obj\Debug\BL.Practicas.pdb
